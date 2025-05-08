@@ -22,9 +22,9 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-        Passionate full-stack developer with a knack for creating efficient, 
-        scalable solutions. Expertise in frontend and backend technologies,
-         fostering seamless user experiences.
+        Software developer with experience in backend development, automation scripting, and application support. 
+        Worked on projects for clients like Fannie Mae and TriWest Healthcare Alliance, focusing on Python, TCL/TK scripting, and 
+        Oracle database tools. Skilled in building efficient systems and streamlining processes to improve overall performance.
         </p>
       </div>
 
@@ -51,8 +51,9 @@ const About = () => {
         <h3 className='subhead-text'>Qualifications.</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
-          Dedicated and accomplished professional with a strong track record. 
-          Proven ability to excel in diverse roles and environments.
+          Bachelor’s degree in Information Technology, 
+          with a strong foundation in software development, data structures, and system design.
+
           </p>
         </div>
 

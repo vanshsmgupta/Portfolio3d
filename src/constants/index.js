@@ -1,4 +1,4 @@
-import { kendriya, meta, poornima, rotary, shopify, starbucks, tesla } from "../assets/images";
+import { kendriya, meta, poornima, rotary, shopify, starbucks, tesla, ac, at } from "../assets/images";
 import {
     car,
     contact,
@@ -111,16 +111,27 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "10th Standard",
-        company_name: "Rotary Integrated Secondary School",
-        icon: rotary,
-        iconBg: "#accbe1",
-        date: "March 2017 - April 2018",
+        title: "Software Developer",
+        company_name: "American Chase",
+        icon: ac,
+        iconBg: "#000000",
+        date: "May 2024 - Present",
         points: [
-            "Consistently achieved top grades, demonstrating a strong commitment to academic success in various subjects.",
-            "Actively engaged in class activities, showcasing leadership skills through group projects and extracurricular involvement.",
-            "Participated in diverse extracurricular activities, contributing to a well-rounded education and fostering personal growth.",
-            "Demonstrated strong communication skills through presentations, discussions, and collaboration with peers and teachers.",
+            "Client: Fannie Mae | Role: Python Developer (Backend & Automation) – Developed and maintained backend services using Python, optimizing performance and ensuring seamless data flow across systems. Automated repetitive tasks and data pipelines using custom Python scripts, improving operational efficiency and reducing manual errors.",
+            "Client: TriWest Healthcare Alliance | Role: Application Developer – Designed and maintained user interface components using TCL/TK scripting to enhance usability and workflow integration. Utilized TOAD for Oracle to perform database queries, analyze data, and support application-level troubleshooting and enhancements.",
+        ],
+    },
+    {
+        title: "Full Stack Developer",
+        company_name: "AbuTimes.com",
+        icon: at,
+        iconBg: "#b7e4c7",
+        date: "Sept 2023 - Feb 2024",
+        points: [
+            "Developed and maintained a responsive news/media website using modern web technologies, ensuring optimal performance and user experience across devices.",
+            "Built and integrated RESTful APIs to handle dynamic content delivery, user authentication, and content management functionality.",
+            "Implemented front-end features using HTML, CSS, JavaScript (and frameworks like React or Vue if applicable), ensuring clean UI and intuitive UX.",
+            "Optimized website for SEO, fast load times, and scalability, resulting in improved traffic and user engagement.",
         ],
     },
     {
@@ -134,19 +145,6 @@ export const experiences = [
             "Leadership in school projects, showcasing initiative, organizational skills.",
             "Applied critical thinking to solve complex problems effectively.",
             "Contributed to research projects, fostering a passion for exploration and innovation.",
-        ],
-    },
-    {
-        title: "B.Tech Information Technology",
-        company_name: "Poornima College Of Engineering",
-        icon: poornima,
-        iconBg: "#b7e4c7",
-        date: "May 2020 - Present",
-        points: [
-            "Mastered diverse IT concepts, languages, and tools, demonstrating a strong foundation in technology and problem-solving.",
-            "Led successful IT projects, showcasing organizational skills, teamwork, and the ability to meet deadlines effectively.",
-            "Demonstrated commitment to staying current with industry trends and technologies through self-directed learning and professional development.",
-            "Effectively communicated technical concepts, collaborated on team projects, and engaged in constructive problem-solving within a diverse academic environment.",
         ],
     },
     // {

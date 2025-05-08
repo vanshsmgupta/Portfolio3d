@@ -7,6 +7,8 @@ import logo from './logo.svg'
 import rotary from './rotary.jpeg'
 import poornima from './poor.png'
 import kendriya from './kendriya.png'
+import ac from './ac.png'
+import at from './at.png'
 
 export {
     hero,
@@ -17,5 +19,7 @@ export {
     logo,
     rotary,
     poornima,
-    kendriya
+    kendriya,
+    ac,
+    at
 }
