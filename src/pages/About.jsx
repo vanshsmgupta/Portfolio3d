@@ -53,6 +53,7 @@ const About = () => {
           <p>
           Bachelor’s degree in Information Technology, 
           with a strong foundation in software development, data structures, and system design.
+
           </p>
         </div>
 
